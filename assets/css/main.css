@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-link {
+    @apply text-white hover:text-brand-400;
+  }
+  .box {
+    @apply px-[32px] md:px-[60px] lg:px-[130px];
+  }
+}
+
+@layer base {
+  p {
+    @apply text-[14px] md:text-[18px];
+  }
+
+  span {
+    @apply text-[14px] md:text-[18px];
+  }
+}
