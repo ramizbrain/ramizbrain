@@ -7,7 +7,7 @@
     <!-- 1st col -->
     <img
       class="flex-1 md:max-w-[560px] rounded-[60px] rounded-bl-none"
-      src="profile.png"
+      src="/profile.png"
       alt="profile"
     />
     <!-- 2nd col -->
